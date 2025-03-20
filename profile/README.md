@@ -39,7 +39,7 @@ Daten.
       Datenquellen:
       [Geburtenhäufgikeit](https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/geburten-todesfaelle/fruchtbarkeit.html),
       [Erwerbsquote der Frauen](https://www.bfs.admin.ch/bfs/de/home/statistiken/querschnittsthemen/monitoring-legislaturplanung/indikatoren/erwerbsquote-frauen.assetdetail.33106531.html)
-    * Wirtschaftswachstum  
+    * Wirtschaftswachstum  riart
       Das Wirtschaftswachstum kann nachhaltig gesteigert werden, dies zeigt die
       Entkoppelung von Wirtschaftswachstum und Energieverbrauch. 
 
