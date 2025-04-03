@@ -47,7 +47,7 @@ Daten.
       Serie](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken.assetdetail.32257509.html),
       [Energieverbrauch](https://www.bfs.admin.ch/asset/de/29525382)
 * Die Arbeit hat in den entsprechenden GitHub-Repositories zu erfolgen.
-* Abzugeben sind einerseits der Text und andererseits das mit `git log
+* Abzugeben sind einerseits der Text und andererseits das mit `git log -p
   --decorate --graph --all --full-history > gitlog.txt` erstellte Git-Log.
 * Die Abgabe des Textes hat als in ein PDF konvertiertes Jupyter Notebook zu
   erfolgen. Eine zweite Abgabe des Jupyter Notebooks hat als Markdown File zu erfolgen.
